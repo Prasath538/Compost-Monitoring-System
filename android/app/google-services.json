@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615436559823",
+    "project_id": "fertilizer-5841a",
+    "storage_bucket": "fertilizer-5841a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615436559823:android:988dbfa4d0d2748e62deba",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1-LVRDhCmBk5r9abFQUhefvU0Poj4WRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
